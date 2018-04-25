@@ -37,6 +37,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - VueJS
     - [**Vue Loader**](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
+  - Browser (no framework needed)
+    - [**Live.js**](http://livejs.com/) Say goodbye to Alt-Tab. Live.js makes sure you're always looking at the latest version of the page you're working on, whether you're writing HTML, CSS or Javascript. (Infrequently updated and/or abandoned, but still works.)
 
 ## Python
   - Gunicorn
